@@ -7,7 +7,7 @@ function purple__btn(){
        document.body.style.background="green"
    }
    
-   function yellow__btn(){
-       document.body.style.background="yellow"
+   function orange__btn(){
+       document.body.style.background="orange"
    }
    
